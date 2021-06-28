@@ -1,0 +1,29 @@
+1624885052122	geckodriver	INFO	Listening on 127.0.0.1:47085
+1624885052717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0mowSi"
+1624885053037	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0mowSi/search.json.mozlz4", (void 0)))
+1624885054421	Marionette	INFO	Listening on port 38495
+1624885054544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624885063305	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624885073477	Marionette	INFO	Stopped listening on port 38495
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624885099718	geckodriver	INFO	Listening on 127.0.0.1:46101
+1624885100319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIxdKBz"
+1624885100607	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIxdKBz/search.json.mozlz4", (void 0)))
+1624885101741	Marionette	INFO	Listening on port 40421
+1624885101915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624885117657	Marionette	INFO	Stopped listening on port 40421
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

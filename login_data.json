@@ -1,0 +1,13 @@
+{
+  "dev": {
+    "auth": "ohdoisdhoishdf",
+    "pass": "khslfhdslif",
+    "dev_conn_string": "wdhflihsdlhdf"
+  },
+
+  "qa": {
+    "auth": "ohdoisdhofgdfgfdgdfgdfgsishdf",
+    "pass": "khsldfgy564646fhdslif",
+    "dev_conn_string": "wdhfli464646456hsdlhdf"
+  }
+}

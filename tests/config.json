@@ -1,0 +1,6 @@
+{
+  "browser": "firefox",
+  "supported-browsers": ["chrome", "firefox"],
+  "env": "dev",
+  "hub_address": "host_num"
+}
